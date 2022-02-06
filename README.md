@@ -5,7 +5,7 @@ To enable "map chart" option in MS Excel 2013 you can insert "Microsoft Power Ma
 
 Reference: https://rb.gy/eg94sp
 
-The preview of the dashboard is available [here](https://wcykpywbhadxw3z4fbulgw-on.drv.tw/www.bfg_dashboard.nj/BGF_Dashboard.htm) 
+The preview of the dashboard (along with the tabs) is available [here](https://wcykpywbhadxw3z4fbulgw-on.drv.tw/www.bfg_dashboard.nj/BGF_Dashboard.htm) 
 
 *Screen Shot*
 ![alt text](https://github.com/neerajw710/BFG-Dashboard/blob/main/BFG%20Dashboard.jpg?raw=true)
