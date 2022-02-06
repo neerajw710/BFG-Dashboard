@@ -7,7 +7,7 @@ Reference: https://rb.gy/eg94sp
 
 The preview of the dashboard is available [here](https://wcykpywbhadxw3z4fbulgw-on.drv.tw/www.bfg_dashboard.nj/BGF_Dashboard.htm) 
 
-
+*Screen Shot*
 ![alt text](https://github.com/neerajw710/BFG-Dashboard/blob/main/BFG%20Dashboard.jpg?raw=true)
 
-Screen Shot
+
