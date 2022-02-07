@@ -1,7 +1,7 @@
 # Big Faishon Groups Dashboard
 **Note:** *This dashboard is developed on MS Excel 2019
 This dashboard contains map-chart and sparkline graph in cells which are supported for some versions of MS Excel.
-To enable the map-chart option in MS Excel 2013 you can insert the __Microsoft Power__ Map for Excel add-in.* 
+To enable the map-chart option in MS Excel 2013 you can insert the __Microsoft Power Map for Excel__ add-in.* 
 
 *MS Excel Power Map add-in Reference: https://rb.gy/eg94sp*
 
